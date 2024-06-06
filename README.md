@@ -1,8 +1,10 @@
 # PostmanKata
 
 Корневое API (без указания endpoint выдает json с ошибкой): https://blog.kata.academy/api 
-  Документация по апи: https://api.realworld.io/api-docs/
-  Если ссылка не работает, рекомендуем использовать альтернативу: https://bump.sh/doc/realworld/operation/operation-createuser 
+
+Документация по апи: https://api.realworld.io/api-docs/
+
+Если ссылка не работает, рекомендуем использовать альтернативу: https://bump.sh/doc/realworld/operation/operation-createuser 
 
 1.Скачал Postman, дальше все запросы отправлял с его помощью
 
